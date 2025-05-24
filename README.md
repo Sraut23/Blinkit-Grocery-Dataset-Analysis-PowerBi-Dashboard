@@ -1,9 +1,12 @@
-#Blinkit Data Analysis Dashboard
+Blinkit Data Analysis Dashboard
 
-#Project Overview
+Project Overview :
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
-#Key Performance Indicators (KPIs)
+Problem Statement : 
+The core challenge was to transform raw sales and item data from Blinkit into actionable insights, helping stakeholders understand key performance indicators, identify trends, and optimize operations for better sales and customer satisfaction.
+
+Key Performance Indicators (KPIs)
 
 The dashboard focuses on the following primary KPIs:
 * Total Sales: Overall revenue generated from all items sold ($1.20M)
@@ -11,7 +14,7 @@ The dashboard focuses on the following primary KPIs:
 * Number of Items: Total count of different items sold (8523)
 * Average Rating: Average customer rating for items sold (3.9 out of 5)
   
-#Features
+Features
 * Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
 * Outlet Establishment Trend: Visualizes the growth of outlet establishments from 2012 to 2022
 * Fat Content Analysis: Breaks down sales by low fat and regular fat products
@@ -19,7 +22,7 @@ The dashboard focuses on the following primary KPIs:
 * Outlet Size and Location Analysis: Provides insights on sales performance by outlet size and location tier
 * Outlet Type Comparison: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
   
-#Insights and Conclusions
+Insights and Conclusions
 * Strong overall sales performance with over $1M in total sales
 * Consumer preference for low-fat products, indicating health-conscious buying habits
 * Fruits, vegetables, and snack foods are the top-selling categories
